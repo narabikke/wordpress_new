@@ -1,0 +1,1115 @@
+# Translation of Zerif Lite in Japanese
+# This file is distributed under the same license as the Zerif Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-07-28 00:56:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Zerif Lite\n"
+
+#. Description of the plugin/theme
+msgid "Zerif LITE is a free one page Wordpress theme. It's perfect for web agency business,corporate business,personal and parallax business portfolio, photography sites and freelancer.Is built on BootStrap with parallax support, is responsive, clean, modern, flat and minimal. Zerif Lite is ecommerce (WooCommerce) Compatible, WPML, RTL, Retina-Ready, SEO Friendly and with parallax, full screen image is one of the best business themes."
+msgstr "Zerif Lite は無料のシングルページ WordPress テーマです。Web 制作会社やその他の企業、個人向けのパララックスビジネスポートフォリオ、写真サイトやフリーランスの方向けにぴったりです。Bootstrap にパララックスサポートを追加して構築されており、スッキリとしていて現代的であり、フラットかつミニマルです。Zerif Lite は eコマース (WooCommerce)、WPML、RTL、Retina に対応し、SEO フレンドリーでパララックス効果や全画面画像を含み、最高なビジネステーマのひとつといえるでしょう。"
+
+#. Theme Name of the plugin/theme
+msgid "Zerif Lite"
+msgstr "Zerif Lite"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr "全幅ページ"
+
+#. Template Name of the plugin/theme
+msgid "Blog"
+msgstr "ブログ"
+
+#. Template Name of the plugin/theme
+msgid "Blog template with large images"
+msgstr "大きなイメージを含められるブログテンプレート"
+
+#: sidebar.php:45
+msgid "Meta"
+msgstr "メタ情報"
+
+#: sections/latest_news.php:143
+msgid "Next"
+msgstr "次ページへ"
+
+#: sections/latest_news.php:139
+msgid "Previous"
+msgstr "前"
+
+#: sections/latest_news.php:24
+msgid "Latest news"
+msgstr "最新ニュース"
+
+#: sections/about_us.php:335
+msgid "OUR HAPPY CLIENTS"
+msgstr "クライアント事例"
+
+#: search.php:47
+msgid "Search Results for: %s"
+msgstr "検索結果: %s"
+
+#: inc/template-tags.php:155
+msgid "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">投稿日: %1$s</span><span class=\"byline\"> 投稿者: %2$s</span>"
+
+#: inc/template-tags.php:105
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:103
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: inc/template-tags.php:97
+msgid "Post navigation"
+msgstr "投稿ナビゲーション"
+
+#: inc/template-tags.php:51
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "新しい投稿 <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:43
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> 過去の投稿"
+
+#: inc/template-tags.php:35
+msgid "Posts navigation"
+msgstr "投稿ナビゲーション"
+
+#: inc/extras.php:125
+msgid "Page %s"
+msgstr "ページ %s"
+
+#: inc/customizer.php:1260
+msgid "Support Forum"
+msgstr "サポートフォーラム"
+
+#: inc/customizer.php:1259
+msgid "Leave a review (it will help us)"
+msgstr "レビューを書く (私たちの手助けになります)"
+
+#: inc/customizer.php:1258
+msgid "View PRO version"
+msgstr "プロ版を表示"
+
+#: inc/customizer.php:1257
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: inc/customizer.php:1184
+msgid "Create an account here"
+msgstr "ここでアカウントを作成"
+
+#: inc/customizer.php:1201
+msgid "Google maps section"
+msgstr "グーグルマップセクション"
+
+#: inc/customizer.php:1175
+msgid "Hide reCaptcha?"
+msgstr "reCaptcha を非表示にしますか ?"
+
+#: inc/customizer.php:1216
+msgid "Pricing section"
+msgstr "価格セクション"
+
+#: inc/customizer.php:1192
+msgid "Secret key"
+msgstr "シークレットキー"
+
+#: inc/customizer.php:1183
+msgid "Site key"
+msgstr "サイトキー"
+
+#: inc/customizer.php:1161
+msgid "Send Message"
+msgstr "メッセージ送信"
+
+#: inc/customizer.php:1154
+msgid "Email address"
+msgstr "メールアドレス"
+
+#: inc/customizer.php:940 sections/testimonials.php:13
+msgid "Testimonials"
+msgstr "推薦文"
+
+#: inc/customizer.php:913 sections/our_team.php:21
+msgid "Prove that you have real people working for you, with some nice looking profile pictures and links to social media."
+msgstr "見栄えの良いプロフィール画像とソーシャルメディアのリンクを追加して、実際にサイトを運営している人物がいることをアピールしましょう。"
+
+#: inc/customizer.php:547 inc/customizer.php:754
+msgid "Big left side title"
+msgstr "大きな左のサイドタイトル"
+
+#: inc/customizer.php:1000
+msgid "BottomButton Ribbon"
+msgstr "ボタン下リボン"
+
+#: inc/customizer.php:1016 inc/customizer.php:1046 inc/customizer.php:1164
+msgid "Button label"
+msgstr "ボタンラベル"
+
+#: inc/customizer.php:1024 inc/customizer.php:1054
+msgid "Button link"
+msgstr "ボタンリンク"
+
+#: inc/customizer.php:706
+msgid "Clients area"
+msgstr "クライアントエリア"
+
+#: inc/customizer.php:1119
+msgid "Contact us section"
+msgstr "お問合せセクション"
+
+#: inc/customizer.php:1144
+msgid "Contact us section subtitle"
+msgstr "お問い合わせセクションサブタイトル"
+
+#: inc/customizer.php:1136
+msgid "Contact us section title"
+msgstr "お問い合わせセクションタイトル"
+
+#: inc/customizer.php:545 inc/customizer.php:752 sections/about_us.php:59
+msgid "Everything you see here is responsive and mobile-friendly."
+msgstr "ここで見られるものすべてはレスポンシブでモバイルフレンドリーです。"
+
+#: inc/customizer.php:562
+msgid "Feature no#1"
+msgstr "おすすめその1"
+
+#: inc/customizer.php:598
+msgid "Feature no#2"
+msgstr "おすすめその2"
+
+#: inc/customizer.php:634
+msgid "Feature no#3"
+msgstr "おすすめその3"
+
+#: inc/customizer.php:670
+msgid "Feature no#4"
+msgstr "おすすめその4"
+
+#: inc/customizer.php:589 inc/customizer.php:789
+msgid "Feature no1 percentage"
+msgstr "おすすめ1: 割合"
+
+#: inc/customizer.php:577 inc/customizer.php:777
+msgid "Feature no1 text"
+msgstr "おすすめ1: テキスト"
+
+#: inc/customizer.php:570 inc/customizer.php:770
+msgid "Feature no1 title"
+msgstr "おすすめ1: タイトル"
+
+#: inc/customizer.php:625 inc/customizer.php:818
+msgid "Feature no2 percentage"
+msgstr "おすすめ2: 割合"
+
+#: inc/customizer.php:613 inc/customizer.php:806
+msgid "Feature no2 text"
+msgstr "おすすめ2: テキスト"
+
+#: inc/customizer.php:606 inc/customizer.php:799
+msgid "Feature no2 title"
+msgstr "おすすめ2: タイトル"
+
+#: inc/customizer.php:661 inc/customizer.php:847
+msgid "Feature no3 percentage"
+msgstr "おすすめ3: 割合"
+
+#: inc/customizer.php:649 inc/customizer.php:835
+msgid "Feature no3 text"
+msgstr "おすすめ3: テキスト"
+
+#: inc/customizer.php:642 inc/customizer.php:828
+msgid "Feature no3 title"
+msgstr "おすすめ3: タイトル"
+
+#: inc/customizer.php:697 inc/customizer.php:876
+msgid "Feature no4 percentage"
+msgstr "おすすめ4: 割合"
+
+#: inc/customizer.php:685 inc/customizer.php:864
+msgid "Feature no4 text"
+msgstr "おすすめ4: テキスト"
+
+#: inc/customizer.php:678 inc/customizer.php:857
+msgid "Feature no4 title"
+msgstr "おすすめ4: タイトル"
+
+#: inc/customizer.php:1134
+msgid "Get in touch"
+msgstr "お問い合わせ"
+
+#: inc/customizer.php:1128
+msgid "Hide contact us section?"
+msgstr "お問合せセクションを非表示にしますか ?"
+
+#: inc/customizer.php:968
+msgid "Hide latest news section?"
+msgstr "最新ニュースセクションを非表示にしますか ?"
+
+#: inc/customizer.php:899
+msgid "Hide our team section?"
+msgstr "チームセクションを非表示にしますか ?"
+
+#: inc/customizer.php:934
+msgid "Hide testimonials section?"
+msgstr "推薦文セクションを非表示にしますか ?"
+
+#: inc/customizer.php:959
+msgid "Latest News section"
+msgstr "最新ニュースセクション"
+
+#: inc/customizer.php:984
+msgid "Latest News subtitle"
+msgstr "最新ニュースサブタイトル"
+
+#: inc/customizer.php:976
+msgid "Latest News title"
+msgstr "最新ニュースタイトル"
+
+#: inc/customizer.php:553 inc/customizer.php:760
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec massa enim. Aliquam viverra at est ullamcorper sollicitudin. Proin a leo sit amet nunc malesuada imperdiet pharetra ut eros.<br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec massa enim. Aliquam viverra at est ullamcorper sollicitudin. Proin a leo sit amet nunc malesuada imperdiet pharetra ut eros. <br><br>Mauris vel nunc at ipsum fermentum pellentesque quis ut massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas non adipiscing massa. Sed ut fringilla sapien. Cras sollicitudin, lectus sed tincidunt cursus, magna lectus vehicula augue, a lobortis dui orci et est."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec massa enim. Aliquam viverra at est ullamcorper sollicitudin. Proin a leo sit amet nunc malesuada imperdiet pharetra ut eros.<br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec massa enim. Aliquam viverra at est ullamcorper sollicitudin. Proin a leo sit amet nunc malesuada imperdiet pharetra ut eros. <br><br>Mauris vel nunc at ipsum fermentum pellentesque quis ut massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas non adipiscing massa. Sed ut fringilla sapien. Cras sollicitudin, lectus sed tincidunt cursus, magna lectus vehicula augue, a lobortis dui orci et est."
+
+#: inc/customizer.php:915
+msgid "Our team subtitle"
+msgstr "チームサブタイトル"
+
+#: inc/customizer.php:1076
+msgid "Ribbon section with bottom button - Button label"
+msgstr "下ボタンのあるリボンセクション - ボタンラベル"
+
+#: inc/customizer.php:1084
+msgid "Ribbon section with bottom button - Button link"
+msgstr "下ボタンのあるリボンセクション - ボタンリンク"
+
+#: inc/customizer.php:1068
+msgid "Ribbon section with bottom button - Text"
+msgstr "下ボタンのあるリボンセクション - テキスト"
+
+#: inc/customizer.php:1101
+msgid "Ribbon section with button in the right side - Button label"
+msgstr "右側にボタンのあるリボンセクション - ボタンラベル"
+
+#: inc/customizer.php:1109
+msgid "Ribbon section with button in the right side - Button link"
+msgstr "右側にボタンのあるリボンセクション - ボタンリンク"
+
+#: inc/customizer.php:1093
+msgid "Ribbon section with button in the right side - Text"
+msgstr "右側にボタンのあるリボンセクション - テキスト"
+
+#: inc/customizer.php:997 inc/customizer.php:1061
+msgid "Ribbon sections"
+msgstr "リボンセクション"
+
+#: inc/customizer.php:1030
+msgid "RightButton Ribbon"
+msgstr "右ボタンリボン"
+
+#: inc/customizer.php:539 inc/customizer.php:746
+msgid "Subtitle"
+msgstr "サブタイトル"
+
+#: inc/customizer.php:950
+msgid "Testimonials subtitle"
+msgstr "推薦文サブタイトル"
+
+#: inc/customizer.php:537 inc/customizer.php:744 sections/about_us.php:25
+msgid "Use this section to showcase important details about your business."
+msgstr "あなたのビジネスに関する重要な情報を提示するにはこのセクションを使ってください。"
+
+#: inc/customizer.php:568 inc/customizer.php:768 sections/about_us.php:61
+msgid "YOUR SKILL #1"
+msgstr "スキルその1"
+
+#: inc/customizer.php:604 inc/customizer.php:797 sections/about_us.php:208
+msgid "YOUR SKILL #2"
+msgstr "スキルその2"
+
+#: inc/customizer.php:640 inc/customizer.php:826 sections/about_us.php:254
+msgid "YOUR SKILL #3"
+msgstr "スキルその3"
+
+#: inc/customizer.php:676 inc/customizer.php:855 sections/about_us.php:298
+msgid "YOUR SKILL #4"
+msgstr "スキルその4"
+
+#: inc/customizer.php:905 sections/our_team.php:14
+msgid "YOUR TEAM"
+msgstr "チーム"
+
+#: inc/customizer.php:891
+msgid "The main content of this section is customizable in: Customize -> Widgets -> Our team section. There you must add the \"Zerif - Team member widget\""
+msgstr "このセクションのメインコンテンツは、カスタマイズ -> ウィジェット -> チームセクションでカスタマイズ可能です。「Zerif - チームメンバーウィジェット」を追加してください。"
+
+#: inc/customizer.php:926
+msgid "The main content of this section is customizable in: Customize -> Widgets -> Testimonials section. There you must add the \"Zerif - Testimonial widget\""
+msgstr "このセクションのメインコンテンツは、カスタマイズ -> ウィジェット -> 推薦文セクションでカスタマイズ可能です。「Zerif - 推薦文ウィジェット」を追加してください。"
+
+#: inc/customizer.php:529 inc/customizer.php:736 sections/about_us.php:13
+msgid "About"
+msgstr "紹介"
+
+#: inc/customizer.php:523
+msgid "Main content"
+msgstr "メインコンテンツ"
+
+#: inc/customizer.php:516 inc/customizer.php:730
+msgid "Hide about us section?"
+msgstr "当社についてのセクションを非表示にしますか ?"
+
+#: inc/customizer.php:506
+msgid "Settings"
+msgstr "設定"
+
+#: inc/customizer.php:488
+msgid "Our focus subtitle"
+msgstr "フォーカスセクション"
+
+#: inc/customizer.php:486 sections/our_focus.php:39
+msgid "What makes this single-page WordPress theme unique."
+msgstr "このシングルページ形式の WordPress テーマをユニークなものにする理由です。"
+
+#: inc/customizer.php:477 sections/our_focus.php:27
+msgid "FEATURES"
+msgstr "機能"
+
+#: inc/customizer.php:451
+msgid "Green button link"
+msgstr "緑ボタンリンク"
+
+#: inc/customizer.php:471
+msgid "Hide our focus section?"
+msgstr "フォーカスセクションを非表示にしますか ?"
+
+#: inc/customizer.php:436
+msgid "Red button link"
+msgstr "赤ボタンリンク"
+
+#: inc/customizer.php:442 sections/big_title.php:33
+msgid "What's inside"
+msgstr "含まれるもの"
+
+#: inc/customizer.php:463
+msgid "The main content of this section is customizable in: Customize -> Widgets -> Our focus section. There you must add the \"Zerif - Our focus widget\""
+msgstr "このセクションのメインコンテンツは、カスタマイズ -> ウィジェット -> フォーカスセクションでカスタマイズ可能です。「Zerif - フォーカスウィジェット」を追加してください。"
+
+#: inc/customizer.php:429 inc/customizer.php:444
+msgid "Red button label"
+msgstr "赤ボタンラベル"
+
+#: inc/customizer.php:427 sections/big_title.php:24
+msgid "Features"
+msgstr "機能"
+
+#: inc/customizer.php:390
+msgid "24B, Fainari Street, Bucharest, Romania"
+msgstr "24B, Fainari Street, Bucharest, Romania"
+
+#: inc/customizer.php:404
+msgid "Big title section"
+msgstr "大きなタイトルセクション"
+
+#: inc/customizer.php:413
+msgid "Hide big title section?"
+msgstr "大きなタイトルセクションを非表示にしますか ?"
+
+#: inc/customizer.php:419 sections/big_title.php:9
+msgid "ONE OF THE TOP 10 MOST POPULAR THEMES ON WORDPRESS.ORG"
+msgstr "WordPress.org 上で最も人気のあるトップ10テーマのうちのひとつ"
+
+#: inc/customizer.php:261
+msgid "Zerif theme general options"
+msgstr "Zerif テーマ一般設定"
+
+#: inc/customizer.php:354
+msgid "support@codeinwp.com"
+msgstr "support@codeinwp.com"
+
+#: inc/customizer.php:250 inc/customizer.php:392
+msgid "Address"
+msgstr "アドレス"
+
+#: inc/customizer.php:241 inc/customizer.php:383
+msgid "Address section - icon"
+msgstr "アドレスセクション - アイコン"
+
+#: inc/customizer.php:232 inc/customizer.php:372 inc/customizer.php:374
+msgid "Phone number"
+msgstr "電話番号"
+
+#: inc/customizer.php:223 inc/customizer.php:365
+msgid "Phone number section - icon"
+msgstr "電話番号セクション - アイコン"
+
+#: inc/customizer.php:214 inc/customizer.php:356
+msgid "Email"
+msgstr "メールアドレス"
+
+#: inc/customizer.php:205 inc/customizer.php:347
+msgid "Email section - icon"
+msgstr "メールセクション - アイコン"
+
+#: inc/customizer.php:110 inc/customizer.php:266
+msgid "Logo"
+msgstr "ロゴ"
+
+#: inc/customizer.php:143 inc/customizer.php:299
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/customizer.php:197
+msgid "Footer"
+msgstr "フッター"
+
+#: inc/customizer.php:150
+msgid "Socials"
+msgstr "ソーシャル"
+
+#: inc/customizer.php:122 inc/customizer.php:278
+msgid "Disable preloader?"
+msgstr "プリロードを無効化しますか ?"
+
+#: inc/customizer.php:134 inc/customizer.php:290
+msgid "Disable smooth scroll?"
+msgstr "スムーズスクロールを無効化しますか ?"
+
+#: inc/customizer.php:190 inc/customizer.php:339
+msgid "Dribbble link"
+msgstr "Dribble リンク"
+
+#: inc/customizer.php:99 inc/customizer.php:259
+msgid "General options"
+msgstr "一般設定"
+
+#: inc/customizer.php:103
+msgid "General"
+msgstr "一般"
+
+#: inc/customizer.php:77
+msgid "Sections order and Colors"
+msgstr "セクションの順序と色"
+
+#: inc/customizer.php:64
+msgid "To add clients here please go to:<br> Customize -> Widgets -> About us section.<br> There you must add the \"Zerif - Clients widget\""
+msgstr "ここにクライアントを追加するには、<br> カスタマイズ -> ウィジェット -> 当社についてのセクション<br> 「Zerif - クライアントウィジェット」を追加してください。"
+
+#: inc/customizer.php:40
+msgid "Check out the <a href=\"http://themeisle.com/themes/zerif-pro-one-page-wordpress-theme/\">PRO version</a> for full control over the frontpage SECTIONS ORDER and the COLOR SCHEME!"
+msgstr "フロントページセクションの順序やカラースキームを制御するには、<a href=\"http://themeisle.com/themes/zerif-pro-one-page-wordpress-theme/\">プロバージョン</a>をご利用ください。"
+
+#: inc/customizer.php:48
+msgid "Check out the <a href=\"http://themeisle.com/themes/zerif-pro-one-page-wordpress-theme/\">PRO version</a> to add a google maps section !"
+msgstr "Google マップのセクションを追加するには、<a href=\"http://themeisle.com/themes/zerif-pro-one-page-wordpress-theme/\">プロバージョン</a>をご利用ください。"
+
+#: inc/customizer.php:56
+msgid "Check out the <a href=\"http://themeisle.com/themes/zerif-pro-one-page-wordpress-theme/\">PRO version</a> to add a pricing section !"
+msgstr "価格セクションを追加には、<a href=\"http://themeisle.com/themes/zerif-pro-one-page-wordpress-theme/\">プロバージョン</a>をご利用ください。"
+
+#: header.php:91
+msgid "Toggle navigation"
+msgstr "ナビゲーションを切り替え"
+
+#: functions.php:1565
+msgid "Live Preview"
+msgstr "ライブプレビュー"
+
+#: functions.php:1561
+msgid "Install Now"
+msgstr "いますぐインストール"
+
+#: functions.php:1546
+msgid "Already installed"
+msgstr "インストール済み"
+
+#: functions.php:1500
+msgid "Current theme"
+msgstr "現在のテーマ"
+
+#: functions.php:1307 inc/customizer.php:158 inc/customizer.php:307
+msgid "Facebook link"
+msgstr "Facebook リンク"
+
+#: functions.php:1320 inc/customizer.php:166 inc/customizer.php:315
+msgid "Twitter link"
+msgstr "Twitter リンク"
+
+#: functions.php:1437 functions.php:1438
+msgid "More Themes"
+msgstr "テーマをもっと見る"
+
+#: functions.php:1333 inc/customizer.php:182 inc/customizer.php:331
+msgid "Behance link"
+msgstr "Behance リンク"
+
+#: functions.php:1346
+msgid "Dribble link"
+msgstr "Dribble リンク"
+
+#: functions.php:1357 inc/customizer.php:174 inc/customizer.php:323
+msgid "Linkedin link"
+msgstr "LinkedIn リンク"
+
+#: functions.php:1465
+msgid "Simple and effective products, no complex frameworks, no drag & drop builders."
+msgstr "シンプルで効果的な製品、複雑ではないフレームワーク、ドラッグ & ドロップビルダーを使わない仕様。"
+
+#: functions.php:1293
+msgid "Description"
+msgstr "説明"
+
+#: functions.php:1279
+msgid "Position"
+msgstr "位置"
+
+#: functions.php:1267
+msgid "Name"
+msgstr "名前"
+
+#: functions.php:898
+msgid "Author details"
+msgstr "投稿者詳細"
+
+#: functions.php:890
+msgid "Author link"
+msgstr "投稿者リンク"
+
+#: functions.php:880
+msgid "Author"
+msgstr "作成者"
+
+#: functions.php:725 functions.php:943 functions.php:1073 functions.php:1390
+msgid "Upload Image"
+msgstr "画像をアップロード"
+
+#: functions.php:703 functions.php:919 functions.php:1049 functions.php:1367
+msgid "Image"
+msgstr "画像"
+
+#: functions.php:695 functions.php:1037
+msgid "Link"
+msgstr "リンク"
+
+#: functions.php:683 functions.php:908 inc/customizer.php:555
+#: inc/customizer.php:762 inc/customizer.php:1008 inc/customizer.php:1038
+msgid "Text"
+msgstr "テキスト"
+
+#: functions.php:673 inc/customizer.php:421 inc/customizer.php:480
+#: inc/customizer.php:531 inc/customizer.php:738 inc/customizer.php:907
+#: inc/customizer.php:942
+msgid "Title"
+msgstr "タイトル"
+
+#: functions.php:484
+msgid "All plugins installed and activated successfully. %s"
+msgstr "全てのプラグインのインストール・有効化が完了しました：%s"
+
+#: functions.php:458
+msgid "Something went wrong with the plugin API."
+msgstr "plugin API　で問題が発生しました"
+
+#: functions.php:526
+msgid "Default title"
+msgstr "デフォルトタイトル"
+
+#: functions.php:257
+msgctxt "Homemade font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:262
+msgctxt "Monserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: functions.php:256
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:215 inc/customizer.php:502 inc/customizer.php:721
+msgid "About us section"
+msgstr "当社についてセクション"
+
+#: functions.php:183 inc/customizer.php:460
+msgid "Our focus section"
+msgstr "フォーカスセクション"
+
+#: functions.php:231 inc/customizer.php:888
+msgid "Our team section"
+msgstr "チームセクション"
+
+#: functions.php:199 inc/customizer.php:924
+msgid "Testimonials section"
+msgstr "推薦文セクション"
+
+#: functions.php:167
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:79
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: content-single.php:80
+msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "<a href=\"%3$s\" rel=\"bookmark\">パーマリンク</a>をブックマーク"
+
+#: content-single.php:76
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "タグ: %2$s <a href=\"%3$s\" rel=\"bookmark\">パーマリンク</a>"
+
+#: footer.php:144
+msgid "powered by"
+msgstr "Powered by "
+
+#: content-single.php:92
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "カテゴリー: %1$s タグ: %2$s <a href=\"%3$s\" rel=\"bookmark\">パーマリンク</a>"
+
+#: content-single.php:96
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "カテゴリー: %1$s <a href=\"%3$s\" rel=\"bookmark\">パーマリンク</a>"
+
+#: front-page.php:214
+msgid "* Please enter a message."
+msgstr "* メッセージを入力してください。"
+
+#: front-page.php:193
+msgid "* Please enter a subject."
+msgstr "* 件名を入力してください。"
+
+#: front-page.php:163
+msgid "* Please enter your email address."
+msgstr "* メールアドレスを入力してください。"
+
+#: front-page.php:142
+msgid "* Please enter your name."
+msgstr "* 名前を入力してください。"
+
+#: front-page.php:172
+msgid "* You entered an invalid email address."
+msgstr "* 有効なメールアドレスを入力してください。"
+
+#: footer.php:29 inc/customizer.php:248
+msgid "Company address"
+msgstr "会社の住所"
+
+#: front-page.php:411
+msgid "Sorry, an error occured."
+msgstr "エラーが発生しました。"
+
+#: front-page.php:407
+msgid "Thanks, your email was sent successfully!"
+msgstr "ありがとうございます。メールを送信しました。"
+
+#: content-none.php:55
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: content-none.php:45
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ご指定の検索条件に一致する投稿がありませんでした。他のキーワードでもう一度検索してみてください。"
+
+#: content-none.php:37
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿をする準備ができましたか ?  <a href=\"%1$s\">ここからスタート</a>してください。"
+
+#: content-none.php:25
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: content-large.php:165 content-page.php:45 content-single.php:122
+#: content.php:156
+msgid "Edit"
+msgstr "編集"
+
+#: content-large.php:161 content.php:150
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: content-large.php:161 content.php:150
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: content-large.php:161 content.php:150
+msgid "Leave a comment"
+msgstr "コメントする"
+
+#: content-large.php:150 content.php:138
+msgid "Tagged %1$s"
+msgstr "タグ:  %1$s"
+
+#: content-large.php:130 content.php:118
+msgid "Posted in %1$s"
+msgstr "カテゴリー: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: content-large.php:122 content-large.php:142 content-single.php:60
+#: content-single.php:66 content.php:110 content.php:130
+msgid ", "
+msgstr ", "
+
+#: content-large.php:86 content-page.php:35 content-single.php:42
+#: content.php:89
+msgid "Pages:"
+msgstr "ページ:"
+
+#: comments.php:127
+msgid "Comments are closed."
+msgstr "コメントは停止中です。"
+
+#: comments.php:73 comments.php:107
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:71 comments.php:105
+msgid "&larr; Older Comments"
+msgstr "&larr; 過去のコメント"
+
+#: comments.php:69 comments.php:103
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:55
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "「%2$s」への%1$s件のフィードバック"
+
+#: class-tgm-plugin-activation.php:4140
+msgid "All installations have been completed."
+msgstr "すべてのインストールが完了しました。"
+
+#: class-tgm-plugin-activation.php:4142
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグをインインストールしています %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:4122
+msgid "All installations and activations have been completed."
+msgstr "すべてのインストールと有効化が完了しました。"
+
+#: class-tgm-plugin-activation.php:4124
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグインをインストール、有効化しています %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:4132
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "更新プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+#: class-tgm-plugin-activation.php:4134
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "<strong>%2$s</strong>%1$s のインストール中にエラーが発生しました。"
+
+#: class-tgm-plugin-activation.php:4136
+msgid "The installation of %1$s failed."
+msgstr "%1$s のインストールに失敗しました。"
+
+#: class-tgm-plugin-activation.php:4138
+msgid "%1$s installed successfully."
+msgstr "%1$s が正常にインストールされました。"
+
+#: class-tgm-plugin-activation.php:4120 class-tgm-plugin-activation.php:4138
+msgid "Hide Details"
+msgstr "詳細を非表示"
+
+#: class-tgm-plugin-activation.php:4120 class-tgm-plugin-activation.php:4138
+msgid "Show Details"
+msgstr "詳細を表示"
+
+#: class-tgm-plugin-activation.php:3890
+msgid "Plugin activation failed."
+msgstr "プラグインの有効化に失敗しました。"
+
+#: class-tgm-plugin-activation.php:4118
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "インストールと有効化プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+#: class-tgm-plugin-activation.php:4120
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s が正常にインストールされ、有効化されました。"
+
+#: class-tgm-plugin-activation.php:3868
+msgid "Plugin installed successfully."
+msgstr "プラグインのインストールが完了しました。"
+
+#: class-tgm-plugin-activation.php:3866
+msgid "Plugin install failed."
+msgstr "プラグインのインストールに失敗しました。"
+
+#: class-tgm-plugin-activation.php:3864
+msgid "Installing the plugin&#8230;"
+msgstr "プラグインをインストールしています…"
+
+#: class-tgm-plugin-activation.php:3862
+msgid "Unpacking the package&#8230;"
+msgstr "パッケージを展開しています…"
+
+#: class-tgm-plugin-activation.php:3860
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "<span class=\"code\">%s</span> からインストールパッケージをダウンロードしています…"
+
+#: class-tgm-plugin-activation.php:3858
+msgid "Install package not available."
+msgstr "インストールパッケージがありません。"
+
+#: class-tgm-plugin-activation.php:3222
+msgid "No plugins are available to be activated at this time."
+msgstr "現時点で有効化できるプラグインはありません。"
+
+#: class-tgm-plugin-activation.php:3010
+msgid "No plugins are available to be installed at this time."
+msgstr "現時点でインストールできるプラグインはありません。"
+
+#: class-tgm-plugin-activation.php:2754
+msgid "Status"
+msgstr "ステータス"
+
+#: class-tgm-plugin-activation.php:2752
+msgid "Type"
+msgstr "Type"
+
+#: class-tgm-plugin-activation.php:2750
+msgid "Source"
+msgstr "ソース"
+
+#: class-tgm-plugin-activation.php:2748
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: class-tgm-plugin-activation.php:2716
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr "インストールまたは有効化すべきプラグインはありません。 <a href=\"%1$s\" title=\"Return to the Dashboard\">ダッシュボードに戻る</a>"
+
+#: class-tgm-plugin-activation.php:2618 class-tgm-plugin-activation.php:2792
+msgid "Activate"
+msgstr "有効化"
+
+#: class-tgm-plugin-activation.php:2364
+msgid "Recommended"
+msgstr "推奨"
+
+#: class-tgm-plugin-activation.php:2574 class-tgm-plugin-activation.php:2790
+msgid "Install"
+msgstr "インストール"
+
+#: class-tgm-plugin-activation.php:2374
+msgid "Installed But Not Activated"
+msgstr "停止中"
+
+#: class-tgm-plugin-activation.php:2370
+msgid "Not Installed"
+msgstr "インストールされていません"
+
+#: class-tgm-plugin-activation.php:2364
+msgid "Required"
+msgstr "必須"
+
+#: class-tgm-plugin-activation.php:2358
+msgid "WordPress Repository"
+msgstr "WordPress公式レポジトリ"
+
+#: class-tgm-plugin-activation.php:429
+msgid "Dismiss this notice"
+msgstr "無視する"
+
+#: class-tgm-plugin-activation.php:425 class-tgm-plugin-activation.php:3266
+msgid "The following plugin was activated successfully:"
+msgstr "以下のプラグインは有効化されました："
+
+#: class-tgm-plugin-activation.php:423 class-tgm-plugin-activation.php:3892
+#: functions.php:482
+msgid "Plugin activated successfully."
+msgstr "プラグインは有効化されました。"
+
+#: class-tgm-plugin-activation.php:419 functions.php:480
+msgid "Return to Required Plugins Installer"
+msgstr "必要なプラグインインストーラに戻る"
+
+#: class-tgm-plugin-activation.php:427
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "すべてのプラグインが正常にインストール、有効化されました。 %1$s"
+
+#: class-tgm-plugin-activation.php:421
+msgid "Return to the dashboard"
+msgstr "ダッシュボードに戻る"
+
+#: class-tgm-plugin-activation.php:1082 class-tgm-plugin-activation.php:4326
+msgid "Return to the Dashboard"
+msgstr "ダッシュボードに戻る"
+
+#: class-tgm-plugin-activation.php:2342
+msgid "Private Repository"
+msgstr "プライベート リポジトリ"
+
+#: class-tgm-plugin-activation.php:2348
+msgid "Pre-Packaged"
+msgstr "プレパッケージされた"
+
+#: class-tgm-plugin-activation.php:409 functions.php:470
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "申し訳ありませんが　あなたの権限では、%s  プラグインのアクティブ設定をすることが出来ません。サイト管理者に連絡を取り、助言を求めてください"
+
+#: class-tgm-plugin-activation.php:411 functions.php:472
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "%1$s プラグインは、このテーマとの互換性を最大限に確保するために、最新バージョンにアップデートする必要があります"
+
+#: class-tgm-plugin-activation.php:413 functions.php:474
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "申し訳ありませんが　あなたの権限では、%s  プラグインのアップデートをすることが出来ません。サイト管理者に連絡を取り、助言を求めてください"
+
+#: class-tgm-plugin-activation.php:415 functions.php:476
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "プラグインのインストールを開始"
+
+#: class-tgm-plugin-activation.php:417 functions.php:478
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "プラグインのアクティブ化を開始"
+
+#: class-tgm-plugin-activation.php:397
+msgid "Something went wrong."
+msgstr "問題が発生しました。"
+
+#: class-tgm-plugin-activation.php:399 functions.php:460
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "このテーマは、%1$s　プラグインが必要です"
+
+#: class-tgm-plugin-activation.php:401 functions.php:462
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "このテーマは、%1$s　プラグイン利用をおすすめします"
+
+#: class-tgm-plugin-activation.php:403 functions.php:464
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "申し訳ありませんが　あなたの権限では、%s  プラグインのインストールをすることが出来ません。サイト管理者に連絡を取り、助言を求めてください"
+
+#: class-tgm-plugin-activation.php:405 functions.php:466
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "テーマに必要なプラグイン　%1$s　が　アクティブに設定されていません"
+
+#: class-tgm-plugin-activation.php:407 functions.php:468
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "おすすめの %1$s プラグインは、アクティブに設定されていません"
+
+#: class-tgm-plugin-activation.php:395 functions.php:456
+msgid "Installing Plugin: %s"
+msgstr "インストールしているプラグイン: %s"
+
+#: class-tgm-plugin-activation.php:393 functions.php:454
+msgid "Install Plugins"
+msgstr "プラグインのインストール"
+
+#: class-tgm-plugin-activation.php:391 functions.php:452
+msgid "Install Required Plugins"
+msgstr "必要なプラグインをインストールする"
+
+#: archive.php:143 sidebar.php:31
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: archive.php:137
+msgid "Chats"
+msgstr "チャット"
+
+#: archive.php:131
+msgid "Audios"
+msgstr "音声"
+
+#: archive.php:125
+msgid "Statuses"
+msgstr "ステータス"
+
+#: archive.php:119
+msgid "Links"
+msgstr "リンク"
+
+#: archive.php:113
+msgid "Quotes"
+msgstr "引用"
+
+#: archive.php:107
+msgid "Videos"
+msgstr "動画"
+
+#: archive.php:101
+msgid "Images"
+msgstr "画像"
+
+#: archive.php:95
+msgid "Galleries"
+msgstr "ギャラリー"
+
+#: archive.php:89
+msgid "Asides"
+msgstr "アサイド"
+
+#: archive.php:83
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: archive.php:83
+msgid "Year: %s"
+msgstr "﻿年別: %s"
+
+#: archive.php:77
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: archive.php:77
+msgid "Month: %s"
+msgstr "月別: %s"
+
+#: archive.php:71
+msgid "Day: %s"
+msgstr "﻿日別: %s"
+
+#: archive.php:65
+msgid "Author: %s"
+msgstr "作者別: %s"
+
+#: 404.php:49
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ここにはなにもないようです。下記のリンクまたは検索を試してみてください。"
+
+#: 404.php:41
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "このページは見つかりません。"
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Author URI of the plugin/theme
+msgid "http://themeisle.com"
+msgstr "http://themeisle.com"
+
+#. Theme URI of the plugin/theme
+msgid "http://themeisle.com/themes/zerif-lite/"
+msgstr "http://themeisle.com/themes/zerif-lite/"
