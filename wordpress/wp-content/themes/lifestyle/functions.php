@@ -158,7 +158,6 @@ function lifestyle_init() {
 		wp_enqueue_script("tinynav", get_stylesheet_directory_uri() . '/js/tinynav.js', array('jquery'));
         //swp_enqueue_script("full_slider", get_stylesheet_directory_uri() . '/js/full_slider.js', array('jquery'));
 	} 
-	} 
 }
 
 add_action( 'tgmpa_register', 'lifestyle_register_plugins' );
